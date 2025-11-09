@@ -10,7 +10,11 @@ Pole
 ### Game 3
 Zelda
 ### Game 4
+Racing Game
+
 ### Game 5
+Self Robot with SLAM
+
 ### Game 6
 ### Game 7
 ### Game 8
